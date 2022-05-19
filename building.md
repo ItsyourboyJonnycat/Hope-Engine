@@ -21,7 +21,7 @@
     - `haxelib install flixel`
     - `haxelib install flixel-addons`
     - `haxelib install flixel-ui`
-    - `haxelib git hscript https://github.com/skuqre/hscript`
+    - `haxelib git hscript https://github.com/HaxeFoundation/hscript`
     - `haxelib install actuate`
     - `haxelib install yaml`
     - `haxelib install texter`
