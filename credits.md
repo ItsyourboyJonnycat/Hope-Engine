@@ -34,5 +34,4 @@ _if you disapprove of me using an asset that belongs to you, tell me and I will 
 - [HScript](https://github.com/HaxeFoundation/hscript)
 - [LINC Discord RPC](https://github.com/Aidan63/linc_discord-rpc)
 - [Actuate](https://github.com/openfl/actuate)
-- [Texter](https://github.com/ShaharMS/texter)
 - [YAML](https://github.com/mikestead/hx-yaml)
