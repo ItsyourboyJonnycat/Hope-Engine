@@ -21,7 +21,7 @@ _if you disapprove of me using an asset that belongs to you, tell me and I will 
 
 ## Shaders
 - Chromatic Aberration - By [GWebDev](https://twitter.com/DevVooshGWeb) and from the [Tabi Mod](https://gamebanana.com/mods/286388)
-- [CRTCurve](https://github.com/Geokureli/Advent2020/blob/master/source/vfx/CrtShader.hx) - By [Geokureli](https://twitter.com/Geokureli) and from the [Tankmas ADVENTure 2020](https://www.newgrounds.com/portal/view/773236)
+- [VCR](https://github.com/nebulazorua/andromeda-engine/blob/master/source/Shaders.hx) - By [Nebula_Zorua](https://twitter.com/Nebula_Zorua/) and from the [Andromeda Engine](https://github.com/nebulazorua/andromeda-engine)
 - Grain - [HaxeFlixel Example](https://github.com/HaxeFlixel/flixel-demos/blob/dev/Effects/Filters/source/openfl8/Grain.hx)
 - Hq2x - [HaxeFlixel Example](https://github.com/HaxeFlixel/flixel-demos/blob/dev/Effects/Filters/source/openfl8/Hq2x.hx)
 - Mosaic - [HaxeFlixel Example](https://github.com/HaxeFlixel/flixel-demos/blob/dev/Effects/MosaicEffect/source/openfl8/MosaicShader.hx)
