@@ -14,10 +14,19 @@ Big thanks to everyone here for being so smart and awesome.
 _if you disapprove of me using an asset that belongs to you, tell me and I will remove it!_
 - [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
     - Alphabet.png and Alphabet.xml
+    - Makes use of the following Week 7 assets:
+        - tankMountains.png
+        - tankRuins.png
+        - tankBuildings.png
+        - gfTankmen.png and gfTankmen.xml
 - [Funkin' Modding Plus](https://github.com/FunkinModdingPlus/ModdingPlus)
     - I modified the "funkin alphabet" font they had so that it overflows glyphs properly. When exporting, it had [Rozebud](https://twitter.com/helpme_thebigt) on the credits. Just confused on who to credit tbh.
 - [The Tricky Mod](https://github.com/KadeDev/trickster)
     - For the "extras" mod I tried to implement the Fire Note fully to Hope Engine.
+
+## Week 7
+- [y579's Week 7 In Kade Engine](https://github.com/y579/FNF-Week-7-in-Kade-Engine) - Charts
+- [BushHaxs's Week 7 Github](https://github.com/BushsHaxs/fnf-week-7-code) - Instrumentals and Vocals
 
 ## Shaders
 - Chromatic Aberration - By [GWebDev](https://twitter.com/DevVooshGWeb) and from the [Tabi Mod](https://gamebanana.com/mods/286388)
@@ -35,3 +44,6 @@ _if you disapprove of me using an asset that belongs to you, tell me and I will 
 - [LINC Discord RPC](https://github.com/Aidan63/linc_discord-rpc)
 - [Actuate](https://github.com/openfl/actuate)
 - [YAML](https://github.com/mikestead/hx-yaml)
+
+----
+<center><h2>See something missing? Tell me!</h2></center>
