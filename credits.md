@@ -44,6 +44,7 @@ _if you disapprove of me using an asset that belongs to you, tell me and I will 
 - [LINC Discord RPC](https://github.com/Aidan63/linc_discord-rpc)
 - [Actuate](https://github.com/openfl/actuate)
 - [YAML](https://github.com/mikestead/hx-yaml)
+- [hxCodec](https://github.com/polybiusproxy/hxCodec)
 
 ----
 <center><h2>See something missing? Tell me!</h2></center>
