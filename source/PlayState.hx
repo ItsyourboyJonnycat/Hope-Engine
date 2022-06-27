@@ -42,6 +42,8 @@ import openfl.Lib;
 import openfl.display.BitmapData;
 import openfl.filters.BlurFilter;
 import openfl.filters.ShaderFilter;
+import vlc.VideoHandler; 
+import vlc.VideoSprite; 
 
 using StringTools;
 
